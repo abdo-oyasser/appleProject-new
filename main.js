@@ -55,13 +55,13 @@ menu.onclick = () => {
         ul.style.display = "block"
     }
 }
-menu.ontouch = () => {
-    if (ul.style.display === "block") {
-        ul.style.display = "none"
-    } else {
-        ul.style.display = "block"
-    }
-}
+// menu.ontouch = () => {
+//     if (ul.style.display === "block") {
+//         ul.style.display = "none"
+//     } else {
+//         ul.style.display = "block"
+//     }
+// }
 
 
 
